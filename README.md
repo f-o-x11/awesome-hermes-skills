@@ -610,6 +610,7 @@ Deepfake detection for agents that ingest user-submitted media. Detects AI-gener
 ### ✉️ Communication & Social
 
 - [clawsocial-hermes-plugin](https://github.com/mrpeter2025/clawsocial-hermes-plugin) by [mrpeter2025](https://github.com/mrpeter2025) — Social discovery network. Semantic interest matching, real-time WebSocket messaging, shareable profile cards. Bilingual EN+CN. **[beta]**
+- [cooper-email](https://github.com/cooper-email/cooper-email/tree/main/skills/cooper-email) by [cooper-email](https://github.com/cooper-email) — Gives the agent its own email inbox over a hosted MCP server or HTTP API: send, receive, reply, and wait for replies or verification codes. Free tier, no card. **[beta]**
 - [famulor-skill](https://github.com/bekservice/Famulor-Skill) by [Famulor](https://github.com/bekservice) — Operates a Famulor voice-agent workspace over a hosted OAuth MCP server: assistants, call, messaging and email history, campaigns and telephony. **[beta]**
 - [hermes-tag](https://github.com/DanielLi202/hermes-tag) by [DanielLi202](https://github.com/DanielLi202) — Context-selection layer for Feishu/Lark and Slack group chats. Answers @-mentions from bounded per-chat evidence instead of full-history RAG, with per-chat memory isolation. **[beta]**
 - [hermes-agent-telegram-checklist](https://github.com/bablobanov/hermes-agent-telegram-checklist) by [johnsje183](https://github.com/johnsje183) — Creates and toggles native Telegram checklists in chats and forum topics over MTProto, behind a write allowlist. **[beta]**
